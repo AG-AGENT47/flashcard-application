@@ -1,6 +1,8 @@
 # FlashCard Application
 
-A Java + JavaFX desktop flashcard study tool built as an OOP coursework project at BITS Pilani. Supports four card types, a Factory design pattern for card creation, and a full study session (revision) workflow with login, deck management, and category organization.
+A Java + JavaFX desktop flashcard study tool built as an OOP coursework project at BITS Pilani.
+
+**Download pre-built JARs:** [Mac](https://github.com/AG-AGENT47/flashcard-application/releases/download/v1.0/FlashCard-Mac.jar) · [Ubuntu](https://github.com/AG-AGENT47/flashcard-application/releases/download/v1.0/FlashCard-Ubuntu.jar) · [Windows](https://github.com/AG-AGENT47/flashcard-application/releases/download/v1.0/FlashCard-Windows.jar) Supports four card types, a Factory design pattern for card creation, and a full study session (revision) workflow with login, deck management, and category organization.
 
 ---
 
